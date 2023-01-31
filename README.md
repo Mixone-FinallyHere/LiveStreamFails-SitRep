@@ -1,4 +1,4 @@
-# LiveStreamFails-SitRep
+# LiveStreamFails SitRep
 SitRep for the attempted phishing and baiting done by the user WallaceSauce through their OVH deployment against a series of streamers.
 
 ## What happened ?
