@@ -9,7 +9,7 @@ They used some very basic javascript and php to get the IP of connection and sho
 The technical thing it does is simply has an invisible "block" in the HTML (source code) of the site that after a small delay displayed a horrific picture and played a specifc song/noise.
 
 ### Why was the streamer name relevant?
-The way the baiter coded this, a piece of php code was looking at a thing called URL parameters, that means those things behind the url such as `URL/?article=USERNAME`. This allowed thier code to simply look up in their database via a separate files called `check.php` and `func.php` and generate a page that had images and logos and profile pics of the streamer name in question in the URL making it look like a "genuine" article for the first couple of seconds.
+The way the baiter coded this, a piece of php code was looking at a thing called URL parameters, that means those things behind the url such as `URL/?article=USERNAME`. This allowed their code to simply look up in their database via a separate files called `check.php` and `func.php` and generate a page that had images and logos and profile pics of the streamer name in question in the URL making it look like a "genuine" article for the first couple of seconds.
 
 ## Was I affected ?
 The list of users that were "attacked" can be found in the file [Names.txt](https://github.com/Mixone-FinallyHere/LiveStreamFails-SitRep/blob/main/Names.txt), you can quickly just use `Cntrl+F` or look through the names to find yourself.
