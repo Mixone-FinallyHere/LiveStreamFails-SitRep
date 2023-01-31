@@ -1,5 +1,5 @@
 # LiveStreamFails-SitRep
-SitRep for the attempted phshing and baiting done by the user WallaceSauce through their OVH deployment against a series of streamers.
+SitRep for the attempted phishing and baiting done by the user WallaceSauce through their OVH deployment against a series of streamers.
 
 ## What happened ?
 The scammer/baiter whom is likely known as WallaceSauce (username to keep under watch potentially) maintained a MySQL database on the OVH hosting platform. On this database they uploaded some 340 records of streamer names with images and profile pics associated, as well as some optional data for them to play different messages in their baiting link. Small note, the user is not very smart, they had various issues with OVH and left critical data open easily as well as open communications on port 22. This is what is usually called a "dumb idea".
